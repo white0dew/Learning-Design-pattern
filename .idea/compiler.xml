@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="DesignPatern" />
         <module name="Design-Pattern" />
+        <module name="learning-design-pattern" />
       </profile>
     </annotationProcessing>
   </component>
