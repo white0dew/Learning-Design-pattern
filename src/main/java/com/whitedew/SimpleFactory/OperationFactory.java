@@ -6,6 +6,7 @@ package com.whitedew.SimpleFactory;
  */
 
 //运算符工厂的简单工厂模式
+//使用静态方法，通过接收的参数的不同来返回不同的对象实例。
 public class OperationFactory {
     public static Operation createOperate(String operate) {
         Operation operation = null;
