@@ -8,6 +8,7 @@ import com.whitedew.abstractfactory.impl.SqlserverFactory;
  */
 
 //工厂方法实现的客户端
+//1
 public class Client1 {
     public static void main(String[] args) {
         User user = new User();
