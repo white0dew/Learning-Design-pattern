@@ -7,9 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DesignPatern" />
         <module name="Design-Pattern" />
         <module name="learning-design-pattern" />
+        <module name="DesignPatern" />
+        <module name="Learning-Design-pattern" />
       </profile>
     </annotationProcessing>
   </component>
