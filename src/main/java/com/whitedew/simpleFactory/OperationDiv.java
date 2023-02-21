@@ -1,4 +1,4 @@
-package com.whitedew.SimpleFactory;
+package com.whitedew.simpleFactory;
 
 /**
  * @Author whitedew
